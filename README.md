@@ -1,4 +1,4 @@
-# A group of friends
+# A group of very good friends
 
 We will use this repository to see different ways of representing a group of
 friends and acquaintances in Python.
